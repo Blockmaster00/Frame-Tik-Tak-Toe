@@ -1,0 +1,13 @@
+﻿<Window x:Class="FrameTikTakToe_2_.BoardCell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrameTikTakToe_2_"
+        mc:Ignorable="d"
+        Title="BoardCell" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="120" WindowStyle="None" Visibility="Visible" Cursor="Hand">
+    <Grid>
+        <Label x:Name="CellLabel" Content="X" MouseLeftButtonUp="CellLabel_OnClick" VerticalAlignment="Center" FontSize="70" Cursor="Hand" HorizontalAlignment="Center" Height="89"/>
+
+    </Grid>
+</Window>

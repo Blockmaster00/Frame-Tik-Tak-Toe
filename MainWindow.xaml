@@ -1,0 +1,13 @@
+﻿<Window x:Class="FrameTikTakToe_2_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrameTikTakToe_2_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="450" ResizeMode="NoResize" HorizontalAlignment="Center" VerticalAlignment="Center" WindowStyle="None" AllowsTransparency="True" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Opacity="0.99">
+    <Grid>
+        <Label x:Name="LTitle" Content="Tik Tak Toe" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="50" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+        <Label x:Name="LSplashText" Content="" HorizontalAlignment="Center" Margin="0,148,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="20"/>
+    </Grid>
+</Window>
