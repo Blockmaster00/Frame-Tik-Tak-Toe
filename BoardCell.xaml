@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FrameTikTakToe_2_"
         mc:Ignorable="d"
-        Title="BoardCell" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="120" WindowStyle="None" Visibility="Visible" Cursor="Hand">
+        Title="BoardCell" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="120" WindowStyle="None" Visibility="Visible" Cursor="">
     <Grid>
         <Label x:Name="CellLabel" Content="X" MouseLeftButtonUp="CellLabel_OnClick" VerticalAlignment="Center" FontSize="70" Cursor="Hand" HorizontalAlignment="Center" Height="89"/>
 

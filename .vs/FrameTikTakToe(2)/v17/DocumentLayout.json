@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Benjamin\\Documents\\GitHub\\Frame-Tik-Tak-Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F67CEF-7D3D-496A-8582-0166B287DBCC}|FrameTikTakToe.csproj|c:\\users\\benjamin\\documents\\github\\frame-tik-tak-toe\\boardcell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F67CEF-7D3D-496A-8582-0166B287DBCC}|FrameTikTakToe.csproj|solutionrelative:boardcell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardCell.xaml",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Documents\\GitHub\\Frame-Tik-Tak-Toe\\BoardCell.xaml",
+              "RelativeDocumentMoniker": "BoardCell.xaml",
+              "ToolTip": "C:\\Users\\Benjamin\\Documents\\GitHub\\Frame-Tik-Tak-Toe\\BoardCell.xaml",
+              "RelativeToolTip": "BoardCell.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-04T15:17:54.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

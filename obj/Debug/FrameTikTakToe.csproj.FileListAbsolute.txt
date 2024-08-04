@@ -1,0 +1,17 @@
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\bin\Debug\FrameTikTakToe(2).exe.config
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\bin\Debug\FrameTikTakToe(2).exe
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\bin\Debug\FrameTikTakToe(2).pdb
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\BoardCell.g.cs
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\App.g.cs
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe(2)_MarkupCompile.cache
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe(2)_MarkupCompile.lref
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\BoardCell.baml
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\MainWindow.baml
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe(2).g.resources
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe_2_.Properties.Resources.resources
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe.csproj.GenerateResource.cache
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe(2).exe
+C:\Users\Benjamin\Documents\GitHub\Frame-Tik-Tak-Toe\obj\Debug\FrameTikTakToe(2).pdb
